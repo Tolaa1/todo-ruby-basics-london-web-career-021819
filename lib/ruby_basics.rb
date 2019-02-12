@@ -17,6 +17,7 @@ end
 greeting ("Hello","Ada")
 
 def return_a_value
+  print "Nice"
 
 end
 
