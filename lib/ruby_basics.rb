@@ -1,5 +1,5 @@
 def division(num1, num2)
- print (36/6)
+ print division(36,6)
 end
 division (36,6)
 
