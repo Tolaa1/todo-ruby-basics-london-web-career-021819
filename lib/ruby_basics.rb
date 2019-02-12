@@ -10,7 +10,7 @@ assign_variable ("Bob")
 def argue
   
 end
-
+argue
 def greeting
 
 end
