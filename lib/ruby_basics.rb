@@ -1,7 +1,7 @@
 def division(num1, num2)
- print (6)
+ print (36/6)
 end
-division 
+division (36,6)
 
 def assign_variable(value)
   print "#{value}"
