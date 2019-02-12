@@ -4,7 +4,7 @@ end
 division 
 
 def assign_variable(value)
-  puts "#{value}"
+  print "#{value}"
 end
 assign_variable ("Bob")
 def argue
