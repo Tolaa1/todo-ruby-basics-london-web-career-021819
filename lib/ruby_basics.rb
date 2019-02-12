@@ -14,7 +14,7 @@ argue
 def greeting (greeting,name)
   print "#{greeting}","#{name}"
 end
-greeting ("Hello","Ada")
+greeting ("Hello,Ada")
 
 def return_a_value
   print "Nice"
