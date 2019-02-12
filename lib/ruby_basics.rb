@@ -3,9 +3,9 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  
+  puts "#{value}"
 end
-
+assign_variable ("Bob")
 def argue
   
 end
