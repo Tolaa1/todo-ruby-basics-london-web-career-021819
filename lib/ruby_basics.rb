@@ -1,6 +1,7 @@
 def division(num1, num2)
  print (6)
 end
+division 
 
 def assign_variable(value)
   puts "#{value}"
