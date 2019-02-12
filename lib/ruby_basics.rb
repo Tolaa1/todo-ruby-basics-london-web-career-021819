@@ -11,9 +11,10 @@ def argue
   
 end
 argue
-def greeting
-
+def greeting (greeting,name)
+  print "#{greeting}","#{name}"
 end
+greeting ("Hello","Ada")
 
 def return_a_value
 
